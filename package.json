@@ -1,7 +1,8 @@
 {
   "name": "@swotpal/mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MCP Server for SWOTPal — SWOT analysis tools for AI agents (Claude, Cursor, Windsurf)",
+  "mcpName": "io.github.aprilelevengo/swotpal-mcp-server",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
